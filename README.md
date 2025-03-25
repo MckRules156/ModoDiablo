@@ -28,6 +28,7 @@ cd ModoDiablo
 chmod +x Instalador.sh
 bash Instalador.sh
 bash ModoDiablo.sh
+```
 
 ## Solución de problemas
 
@@ -43,3 +44,4 @@ pkg install termux-tools -y
 pkg install termux-api -y
 pkg install xdg-utils -y
 pkg update && pkg upgrade -y
+```
