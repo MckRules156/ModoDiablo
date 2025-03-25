@@ -102,7 +102,7 @@ Si te gusta lo que hago y quieres contribuir para seguir mejorando este proyecto
 - **Bitcoin (BTC)**: <No disponible>
 - **Ethereum (ETH)**: <No disponible>
 - **Dogecoin (DOGE)**: <No disponible>
-- **Monero (XMR)**: <No disponible
+- **Monero (XMR)**: <No disponible>
 
 ### BuyMeACoffee:
 Si prefieres hacer una contribución más sencilla, puedes apoyarme a través de **BuyMeACoffee** en este enlace: <No disponible>
