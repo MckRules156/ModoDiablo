@@ -3,7 +3,6 @@
 # ModoDiablo 👹
 **Esto no es solo un script, es un ritual de invocación ...**  
 <br><br>
-
 ## Descripción
 
 ¡Bienvenido al **lado oscuro** de la tecnología! **ModoDiablo** es un script en **Termux** diseñado para convertir tu teléfono en un **portal digital hacia el infierno**. Prepárate para vivir una experiencia aterradora, donde los límites entre lo real y lo sobrenatural se desdibujan.
@@ -14,12 +13,10 @@ Ya sea que desees asustar a tus amigos, sorprender a alguien con un toque macabr
 
 ### ¿Estás listo para desatar el caos?  
 <br><br>
-
 ## Compatibilidad
 
 Este script es compatible con **Termux**. Para un funcionamiento completo, es necesario tener instalada la extensión **Termux:API**, que proporciona acceso a diversas funcionalidades del sistema.  
 <br><br>
-
 ## Instalación
 
 ### 1. Instalar Termux
@@ -40,7 +37,6 @@ bash Instalador.sh
 bash ModoDiablo.sh
 ```
 <br><br>  
-
 ## Solución de problemas
 
 Si encuentras problemas al ejecutar el instalador `Instalador.sh`, es posible que se deba a la falta de algunas dependencias. Si esto ocurre, puedes instalarlas manualmente con los siguientes pasos:
