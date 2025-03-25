@@ -84,7 +84,7 @@ cd ModoDiablo
 bash ModoDiablo.sh
 ```
 
-**2. Utilizar el script para sorprender a un amigo:**
+**2. Utilizar el script para sorprender a un amigo (Con su consentimiento):**
 Si tu objetivo es sorprender a un amigo, puedes programar un temporizador antes de ejecutar el script y encontrar una excusa para prestarle tu teléfono. Una vez que tu amigo esté usando tu dispositivo y el temporizador llegue a su fin, el script comenzará a ejecutarse de manera inesperada. En ese momento, tu amigo probablemente se quedará desconcertado, preguntándose: "¿Qué está pasando aquí?". Dado lo surrealista y extraño de este script, cualquiera en esa situación se verá totalmente desconcertado,
 
 Para ello puedes ejecutar el siguiente comando: (Permite que Termux pueda ejecutarse en segundo plano y programa un temporizador de 1 minuto antes de iniciar el script)
@@ -93,6 +93,12 @@ Para ello puedes ejecutar el siguiente comando: (Permite que Termux pueda ejecut
 termux-wake-lock && sleep 60 && bash ModoDiablo.sh
 ```
 Si deseas llevar la experiencia al siguiente nivel, intenta instalar el script en el teléfono de otra persona sin que se percate, y programa su ejecución. Te garantizo que, en ese caso, la sorpresa será mucho más impactante.
+
+## Aviso Legal ⚖️
+
+Este script ha sido creado con fines de entretenimiento y educativos. Si decides usarlo con otros fines, como sorprender a alguien, asegúrate de obtener su consentimiento y no causarle molestias. Es responsabilidad del usuario asegurarse de que su uso no infrinja las leyes locales, nacionales o internacionales. Los desarrolladores no se hacen responsables de ningún mal uso ni de los daños causados. ¡Utiliza este script con responsabilidad y respeto!
+
+
 
 ## Donaciones 💸
 
