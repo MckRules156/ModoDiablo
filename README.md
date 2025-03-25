@@ -12,3 +12,17 @@ Este script transforma tu dispositivo en una **entidad poseída**, desatando efe
 Ya sea que desees asustar a tus amigos, sorprender a alguien con un toque macabro o simplemente experimentar con lo paranormal, **ModoDiablo** está aquí para poner a prueba tus nervios. Porque recuerda: el diablo no necesita tu alma… solo tu teléfono.
 
 ### ¿Estás listo para desatar el caos?
+
+## Instalación
+
+### 1. Instalar Termux
+Si aún no tienes **Termux** instalado, puedes hacerlo desde [Google Play](https://play.google.com/store/apps/details?id=com.termux) o [F-Droid](https://f-droid.org/packages/com.termux/).
+
+### 2. Clonar el Repositorio
+Abre **Termux** y clona el repositorio con el siguiente comando:
+
+```bash
+git clone https://github.com/MckRules156/ModoDiablo.git
+cd ModoDiablo
+chmod +x Instalador.sh
+bash ModoDiablo.sh
