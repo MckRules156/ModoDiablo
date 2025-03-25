@@ -74,7 +74,7 @@ pkg install xdg-utils -y
 pkg update && pkg upgrade -y
 ```
 
-## ¿Cómo utilizar el script? ⁉️
+## ¿Cómo utilizar el script? 🚀
 
 **1. Utilizar el script para uso particular:**
 Para ejecutar el script, asegúrate de haber completado la instalación sin errores y simplemente dirígete a la carpeta "ModoDiablo" y ejecuta el script "ModoDiablo.sh"
