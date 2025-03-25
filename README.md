@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MckRules156/ModoDiablo/blob/main/Media/logo.png" width="500"/>
+  <img src="https://github.com/MckRules156/ModoDiablo/blob/main/Media/logo.png" width="200"/>
 </p>
 
 # ModoDiablo 👹
