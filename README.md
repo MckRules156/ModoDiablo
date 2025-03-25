@@ -14,12 +14,12 @@ Ya sea que desees asustar a tus amigos, sorprender a alguien con un toque macabr
 
 **¿Estás listo para desatar el caos?** 
 
-## Compatibilidad 
+## Compatibilidad 📲
 
 Este script es compatible con **Termux**. Para un funcionamiento completo, es necesario tener instalada la extensión **Termux:API**, que proporciona acceso a diversas funcionalidades del sistema.  
 
 
-## Características
+## Características ⭐
 
 Este script desatará una serie de efectos demoníacos en tu dispositivo, convirtiéndolo en un portal digital hacia el infierno. Algunas de las características incluyen:
 
@@ -74,7 +74,7 @@ pkg install xdg-utils -y
 pkg update && pkg upgrade -y
 ```
 
-## ¿Cómo utilizar el script?
+## ¿Cómo utilizar el script? ⁉️
 
 **1. Utilizar el script para uso particular:**
 Para ejecutar el script, asegúrate de haber completado la instalación sin errores y simplemente dirígete a la carpeta "ModoDiablo" y ejecuta el script "ModoDiablo.sh"
@@ -98,7 +98,7 @@ Si deseas llevar la experiencia al siguiente nivel, intenta instalar el script e
 
 Si te gusta lo que hago y quieres contribuir para seguir mejorando este proyecto, aquí te dejo varias formas en las que puedes apoyarme. Tu aportación hace la diferencia.
 
-### Criptomonedas:
+### Criptomonedas 🪙:
 - **Bitcoin (BTC)**: <No disponible>
 - **Ethereum (ETH)**: <No disponible>
 - **Dogecoin (DOGE)**: <No disponible>
