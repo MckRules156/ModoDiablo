@@ -1,4 +1,4 @@
-![Logo](https://github.com/MckRules156/ModoDiablo/blob/main/Media/logo.png)
+<img src="https://github.com/MckRules156/ModoDiablo/blob/main/Media/logo.png" width="500"/>
 
 # ModoDiablo 👹
 **Esto no es solo un script, es un ritual de invocación ...**  
