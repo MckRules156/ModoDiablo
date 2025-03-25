@@ -52,7 +52,6 @@ Simplemente dirigete al siguiente enlace para descargar la extensión [Termux:AP
 Ejecuta los siguientes comandos en la terminal de **Termux**
 
 ```bash
-
 git clone https://github.com/MckRules156/ModoDiablo.git
 cd ModoDiablo
 chmod +x Instalador.sh
@@ -76,3 +75,14 @@ pkg install termux-api -y
 pkg install xdg-utils -y
 pkg update && pkg upgrade -y
 ```
+
+## ¿Como utilizar el script?
+
+Para ejecutarel script asegurate de haber completado la instalación sin errores y simplemente dirigete a la carpeta "ModoDiablo" y ejecuta el script "ModoDiablo.sh"
+
+```bash
+cd ModoDiablo
+bash ModoDiablo.sh
+```
+
+
