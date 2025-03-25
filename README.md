@@ -12,7 +12,7 @@ Este script transforma tu dispositivo en una **entidad poseída**, desatando efe
 
 Ya sea que desees asustar a tus amigos, sorprender a alguien con un toque macabro o simplemente experimentar con lo paranormal, **ModoDiablo** está aquí para poner a prueba tus nervios. Porque recuerda: el diablo no necesita tu alma… solo tu teléfono.
 
-### ¿Estás listo para desatar el caos?  
+**¿Estás listo para desatar el caos?** 
 
 ## Compatibilidad
 
@@ -78,6 +78,7 @@ pkg update && pkg upgrade -y
 
 ## ¿Cómo utilizar el script?
 
+**Utilizar el script para uso particular**
 Para ejecutar el script, asegúrate de haber completado la instalación sin errores y simplemente dirígete a la carpeta "ModoDiablo" y ejecuta el script "ModoDiablo.sh"
 
 ```bash
@@ -85,6 +86,7 @@ cd ModoDiablo
 bash ModoDiablo.sh
 ```
 
+**Utilizar el script para sorprender a un amigo**
 Si tu objetivo es sorprender a un amigo, puedes programar un temporizador antes de ejecutar el script y encontrar una excusa para prestarle tu teléfono. Una vez que tu "víctima" esté usando tu dispositivo y el temporizador llegue a su fin, el script comenzará a ejecutarse de manera inesperada. En ese momento, tu amigo probablemente se quedará desconcertado, preguntándose: "¿Qué está pasando aquí?". Dado lo surrealista y extraño de este script, cualquiera en esa situación se verá totalmente desconcertado,
 
 Para ello puedes ejecutar el siguiente comando: (Permite que Termux pueda ejecutarse en segundo plano y programa un temporizador de 1 minuto antes de iniciar el script)
