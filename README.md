@@ -29,3 +29,17 @@ chmod +x Instalador.sh
 bash Instalador.sh
 bash ModoDiablo.sh
 
+## Solución de problemas
+
+Si encuentras problemas al ejecutar el instalador `Instalador.sh`, es posible que se deba a la falta de algunas dependencias. Si esto ocurre, puedes instalarlas manualmente con los siguientes pasos:
+
+### 1. Instalar dependencias manualmente
+
+Abre **Termux** y ejecuta los siguientes comandos para instalar las dependencias necesarias:
+
+```bash
+pkg install php -y
+pkg install termux-tools -y
+pkg install termux-api -y
+pkg install xdg-utils -y
+pkg update && pkg upgrade -y
