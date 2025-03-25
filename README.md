@@ -1,10 +1,10 @@
 <img src="https://github.com/MckRules156/ModoDiablo/blob/main/Media/logo2.jpg?raw=true" alt="ModoDiablo Logo" width="1000"/>
 
 # ModoDiablo 👹
-**Esto no es solo un script, es un ritual de invocación ...**  
+**Este script no solo ejecuta comandos, invoca fuerzas más allá de lo comprensible ...**  
 
 
-## Descripción
+## Descripción 📄
 
 ¡Bienvenido al **lado oscuro** de la tecnología! **ModoDiablo** es un script en **Termux** diseñado para convertir tu teléfono en un **portal digital hacia el infierno**. Prepárate para vivir una experiencia aterradora, donde los límites entre lo real y lo sobrenatural se desdibujan.
 
@@ -14,7 +14,7 @@ Ya sea que desees asustar a tus amigos, sorprender a alguien con un toque macabr
 
 **¿Estás listo para desatar el caos?** 
 
-## Compatibilidad
+## Compatibilidad 
 
 Este script es compatible con **Termux**. Para un funcionamiento completo, es necesario tener instalada la extensión **Termux:API**, que proporciona acceso a diversas funcionalidades del sistema.  
 
@@ -40,7 +40,7 @@ Este script desatará una serie de efectos demoníacos en tu dispositivo, convir
 **8. Servidor Demoníaco**: Se creará un servidor demoníaco en segundo plano y se abrirá automáticamente en el navegador, proporcionando una experiencia aún más inquietante.
 
 
-## Instalación
+## Instalación ⚙️
 
 ### 1. Instalar Termux
 Si aún no tienes **Termux** instalado, puedes hacerlo desde [Termux (F-Droid)](https://f-droid.org/packages/com.termux/).
@@ -60,7 +60,7 @@ bash ModoDiablo.sh
 ```
 
 
-## Solución de problemas
+## Solución de problemas 🛠️
 
 Si encuentras problemas al ejecutar el instalador `Instalador.sh`, es posible que se deba a la falta de algunas dependencias. Si esto ocurre, puedes instalarlas manualmente con los siguientes pasos:
 
@@ -94,7 +94,7 @@ termux-wake-lock && sleep 60 && bash ModoDiablo.sh
 ```
 Si deseas llevar la experiencia al siguiente nivel, intenta instalar el script en el teléfono de otra persona sin que se percate, y programa su ejecución. Te garantizo que, en ese caso, la sorpresa será mucho más impactante.
 
-## Donaciones
+## Donaciones 💸
 
 Si te gusta lo que hago y quieres contribuir para seguir mejorando este proyecto, aquí te dejo varias formas en las que puedes apoyarme. Tu aportación hace la diferencia.
 
@@ -104,12 +104,12 @@ Si te gusta lo que hago y quieres contribuir para seguir mejorando este proyecto
 - **Dogecoin (DOGE)**: <No disponible>
 - **Monero (XMR)**: <No disponible>
 
-### BuyMeACoffee:
+### BuyMeACoffee ☕ :
 Si prefieres hacer una contribución más sencilla, puedes apoyarme a través de **BuyMeACoffee** en este enlace: <No disponible>
 
 Tu apoyo me permite seguir trabajando en proyectos como este. ¡Gracias por estar aquí!
 
-## Contacto
+## Contacto 📬
 Si tienes alguna pregunta o sugerencia, puedes contactarme a través de:
 - Correo electrónico: [MckRules156@proton.me](mailto:MckRules156@proton.me)
 - GitHub: [@MckRules156](https://github.com/MckRules156)
