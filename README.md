@@ -102,10 +102,15 @@ Si te gusta lo que hago y quieres contribuir para seguir mejorando este proyecto
 - **Bitcoin (BTC)**: <No disponible>
 - **Ethereum (ETH)**: <No disponible>
 - **Dogecoin (DOGE)**: <No disponible>
-- **Monero (XMR)**: <No disponible>
+- **Monero (XMR)**: <No disponible
 
 ### BuyMeACoffee:
 Si prefieres hacer una contribución más sencilla, puedes apoyarme a través de **BuyMeACoffee** en este enlace: <No disponible>
 
 Tu apoyo me permite seguir trabajando en proyectos como este. ¡Gracias por estar aquí!
+
+## Contacto
+Si tienes alguna pregunta o sugerencia, puedes contactarme a través de:
+- Correo electrónico: [MckRules156@proton.me](mailto:MckRules156@proton.me)
+- GitHub: [@MckRules156](https://github.com/MckRules156)
 
