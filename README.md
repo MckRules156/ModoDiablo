@@ -3,6 +3,7 @@
 # ModoDiablo 👹
 **Esto no es solo un script, es un ritual de invocación ...**  
 
+
 ## Descripción
 
 ¡Bienvenido al **lado oscuro** de la tecnología! **ModoDiablo** es un script en **Termux** diseñado para convertir tu teléfono en un **portal digital hacia el infierno**. Prepárate para vivir una experiencia aterradora, donde los límites entre lo real y lo sobrenatural se desdibujan.
@@ -16,6 +17,28 @@ Ya sea que desees asustar a tus amigos, sorprender a alguien con un toque macabr
 ## Compatibilidad
 
 Este script es compatible con **Termux**. Para un funcionamiento completo, es necesario tener instalada la extensión **Termux:API**, que proporciona acceso a diversas funcionalidades del sistema.  
+
+
+## Características
+
+Este script desatará una serie de efectos demoníacos en tu dispositivo, convirtiéndolo en un portal digital hacia el infierno. Algunas de las características incluyen:
+
+1. **Voz Demoníaca**: Se oirá una voz demoniaca que advierte que tu dispositivo ha sido poseído, seguida de una risa diabólica y una melodía satánica que pondrá los pelos de punta.
+   
+2. **Cambio de Fondo de Pantalla**: Tu fondo de pantalla se transformará en una imagen tenebrosa, dándole a tu teléfono una atmósfera oscura y espeluznante.
+   
+3. **Vibración Incesante**: El teléfono comenzará a vibrar de manera interminable, generando una sensación inquietante y descontrolada.
+   
+4. **Linterna Intermitente**: La linterna de tu teléfono se encenderá y apagará sola, como si estuviera controlada por fuerzas oscuras.
+   
+5. **Mensajes Flotantes**: Aparecerán mensajes flotantes en tu pantalla, con contenido aterrador y mensajes del otro lado.
+   
+6. **Notificaciones del Diablo**: Recibirás notificaciones misteriosas y aterradoras del propio diablo, aumentando la tensión y el desconcierto.
+   
+7. **Mensajes en la Terminal**: La terminal mostrará mensajes tenebrosos en tiempo real, como si tu teléfono estuviera poseído por una entidad maligna.
+   
+8. **Servidor Demoníaco**: Se creará un servidor demoníaco en segundo plano y se abrirá automáticamente en el navegador, proporcionando una experiencia aún más inquietante.
+
 
 ## Instalación
 
@@ -36,6 +59,7 @@ chmod +x Instalador.sh
 bash Instalador.sh
 bash ModoDiablo.sh
 ```
+
 
 ## Solución de problemas
 
