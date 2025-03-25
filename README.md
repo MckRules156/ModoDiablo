@@ -23,21 +23,21 @@ Este script es compatible con **Termux**. Para un funcionamiento completo, es ne
 
 Este script desatará una serie de efectos demoníacos en tu dispositivo, convirtiéndolo en un portal digital hacia el infierno. Algunas de las características incluyen:
 
-1. **Voz Demoníaca**: Se oirá una voz demoniaca que advierte que tu dispositivo ha sido poseído, seguida de una risa diabólica y una melodía satánica que pondrá los pelos de punta.
+**Voz Demoníaca**: Se oirá una voz demoniaca que advierte que tu dispositivo ha sido poseído, seguida de una risa diabólica y una melodía satánica que pondrá los pelos de punta.
    
-2. **Cambio de Fondo de Pantalla**: Tu fondo de pantalla se transformará en una imagen tenebrosa, dándole a tu teléfono una atmósfera oscura y espeluznante.
+**1. Cambio de Fondo de Pantalla**: Tu fondo de pantalla se transformará en una imagen tenebrosa, dándole a tu teléfono una atmósfera oscura y espeluznante.
    
-3. **Vibración Incesante**: El teléfono comenzará a vibrar de manera interminable, generando una sensación inquietante y descontrolada.
+**2. Vibración Incesante**: El teléfono comenzará a vibrar de manera interminable, generando una sensación inquietante y descontrolada.
    
-4. **Linterna Intermitente**: La linterna de tu teléfono se encenderá y apagará sola, como si estuviera controlada por fuerzas oscuras.
+**3. Linterna Intermitente**: La linterna de tu teléfono se encenderá y apagará sola, como si estuviera controlada por fuerzas oscuras.
    
-5. **Mensajes Flotantes**: Aparecerán mensajes flotantes en tu pantalla, con contenido aterrador y mensajes del otro lado.
+**4. Mensajes Flotantes**: Aparecerán mensajes flotantes en tu pantalla, con contenido aterrador y mensajes del otro lado.
    
-6. **Notificaciones del Diablo**: Recibirás notificaciones misteriosas y aterradoras del propio diablo, aumentando la tensión y el desconcierto.
+**5. Notificaciones del Diablo**: Recibirás notificaciones misteriosas y aterradoras del propio diablo, aumentando la tensión y el desconcierto.
    
-7. **Mensajes en la Terminal**: La terminal mostrará mensajes tenebrosos en tiempo real, como si tu teléfono estuviera poseído por una entidad maligna.
+**6. Mensajes en la Terminal**: La terminal mostrará mensajes tenebrosos en tiempo real, como si tu teléfono estuviera poseído por una entidad maligna.
    
-8. **Servidor Demoníaco**: Se creará un servidor demoníaco en segundo plano y se abrirá automáticamente en el navegador, proporcionando una experiencia aún más inquietante.
+**7. Servidor Demoníaco**: Se creará un servidor demoníaco en segundo plano y se abrirá automáticamente en el navegador, proporcionando una experiencia aún más inquietante.
 
 
 ## Instalación
