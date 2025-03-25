@@ -85,7 +85,7 @@ bash ModoDiablo.sh
 ```
 
 **2. Utilizar el script para sorprender a un amigo:**
-Si tu objetivo es sorprender a un amigo, puedes programar un temporizador antes de ejecutar el script y encontrar una excusa para prestarle tu teléfono. Una vez que tu "víctima" esté usando tu dispositivo y el temporizador llegue a su fin, el script comenzará a ejecutarse de manera inesperada. En ese momento, tu amigo probablemente se quedará desconcertado, preguntándose: "¿Qué está pasando aquí?". Dado lo surrealista y extraño de este script, cualquiera en esa situación se verá totalmente desconcertado,
+Si tu objetivo es sorprender a un amigo, puedes programar un temporizador antes de ejecutar el script y encontrar una excusa para prestarle tu teléfono. Una vez que tu amigo esté usando tu dispositivo y el temporizador llegue a su fin, el script comenzará a ejecutarse de manera inesperada. En ese momento, tu amigo probablemente se quedará desconcertado, preguntándose: "¿Qué está pasando aquí?". Dado lo surrealista y extraño de este script, cualquiera en esa situación se verá totalmente desconcertado,
 
 Para ello puedes ejecutar el siguiente comando: (Permite que Termux pueda ejecutarse en segundo plano y programa un temporizador de 1 minuto antes de iniciar el script)
 
