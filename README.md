@@ -18,11 +18,23 @@ Ya sea que desees asustar a tus amigos, sorprender a alguien con un toque macabr
 ### 1. Instalar Termux
 Si aún no tienes **Termux** instalado, puedes hacerlo desde [Google Play](https://play.google.com/store/apps/details?id=com.termux) o [F-Droid](https://f-droid.org/packages/com.termux/).
 
-### 2. Clonar el Repositorio
+### 2. Instalar el script
 Abre **Termux** y clona el repositorio con el siguiente comando:
 
 ```bash
+
+#Clonar el repositorio
 git clone https://github.com/MckRules156/ModoDiablo.git
+
+#Desplazarte a la ruta del script
 cd ModoDiablo
+
+#Otorgar permisos de ejeución al instalador
 chmod +x Instalador.sh
+
+#Ejecutar el instalador
+bash Instalador.sh
+
+#Ejecutar el script
 bash ModoDiablo.sh
+
