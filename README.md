@@ -15,12 +15,12 @@ Ya sea que desees asustar a tus amigos, sorprender a alguien con un toque macabr
 
 ## Compatibilidad
 
-Este script es compatible con **Termux** en dispositivos Android, y requiere la extensión **Termux:API** instalada para funcionar correctamente.
+Este script es compatible con **Termux**. Para un funcionamiento completo, es necesario tener instalada la extensión **Termux:API**, que proporciona acceso a diversas funcionalidades del sistema. Puedes obtenerla desde [F-Droid](https://f-droid.org/packages/com.termux.api/).
 
 ## Instalación
 
 ### 1. Instalar Termux
-Si aún no tienes **Termux** instalado, puedes hacerlo desde [Google Play](https://play.google.com/store/apps/details?id=com.termux) o [F-Droid](https://f-droid.org/packages/com.termux/).
+Si aún no tienes **Termux** instalado, puedes hacerlo desde [F-Droid](https://f-droid.org/packages/com.termux/).
 
 ### 2. Instalar ModoDiablo
 Ejecuta los siguientes comandos en la terminal de **Termux**
