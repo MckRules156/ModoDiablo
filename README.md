@@ -13,6 +13,10 @@ Ya sea que desees asustar a tus amigos, sorprender a alguien con un toque macabr
 
 ### ¿Estás listo para desatar el caos?
 
+## Compatibilidad
+
+Este script es compatible con **Termux** en dispositivos Android, y requiere la extensión **Termux:API** instalada para funcionar correctamente.
+
 ## Instalación
 
 ### 1. Instalar Termux
