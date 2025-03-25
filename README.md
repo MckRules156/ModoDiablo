@@ -104,7 +104,7 @@ Este script ha sido creado con fines de entretenimiento y educativos. Si decides
 
 Si te gusta lo que hago y quieres contribuir para seguir mejorando este proyecto, aquí te dejo varias formas en las que puedes apoyarme. Tu aportación hace la diferencia.
 
-### Criptomonedas 🪙:
+### Criptomonedas 🪙 :
 - **Bitcoin (BTC)**: <No disponible>
 - **Ethereum (ETH)**: <No disponible>
 - **Dogecoin (DOGE)**: <No disponible>
