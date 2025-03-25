@@ -78,11 +78,19 @@ pkg update && pkg upgrade -y
 
 ## ¿Como utilizar el script?
 
-Para ejecutarel script asegurate de haber completado la instalación sin errores y simplemente dirigete a la carpeta "ModoDiablo" y ejecuta el script "ModoDiablo.sh"
+Para ejecutar el script asegurate de haber completado la instalación sin errores y simplemente dirigete a la carpeta "ModoDiablo" y ejecuta el script "ModoDiablo.sh"
 
 ```bash
 cd ModoDiablo
 bash ModoDiablo.sh
+```
+
+Si lo que pretendes es sorprender algún amigo, programa un temporizador antes de ejecutar el script y inventate una excusa para prestarle tu teléfono movil.
+Una vez la "víctima" esté utilizando tu teléfono y el temporizador llegue a su fin. El script comenzará a hacer su trabajo y tu amigo pensará ¿Que cojones está pasando?
+
+Para ello puedes ejecutar el siguiente comando: (Permite que Termux pueda ejecutarse en segundo plano y programa un temporizador de 1 minuto antes de iniciar el script)
+```bash
+termux-wake-lock && sleep 60 && bash ModoDiablo.sh
 ```
 
 
