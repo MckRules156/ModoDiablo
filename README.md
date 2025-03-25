@@ -2,7 +2,6 @@
 
 # ModoDiablo 👹
 **Esto no es solo un script, es un ritual de invocación ...**  
-
 <br><br>
 
 ## Descripción
@@ -14,12 +13,12 @@ Este script transforma tu dispositivo en una **entidad poseída**, desatando efe
 Ya sea que desees asustar a tus amigos, sorprender a alguien con un toque macabro o simplemente experimentar con lo paranormal, **ModoDiablo** está aquí para poner a prueba tus nervios. Porque recuerda: el diablo no necesita tu alma… solo tu teléfono.
 
 ### ¿Estás listo para desatar el caos?  
-
+<br><br>
 
 ## Compatibilidad
 
 Este script es compatible con **Termux**. Para un funcionamiento completo, es necesario tener instalada la extensión **Termux:API**, que proporciona acceso a diversas funcionalidades del sistema.  
-
+<br><br>
 
 ## Instalación
 
@@ -40,7 +39,7 @@ chmod +x Instalador.sh
 bash Instalador.sh
 bash ModoDiablo.sh
 ```
-  
+<br><br>  
 
 ## Solución de problemas
 
