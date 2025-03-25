@@ -114,3 +114,6 @@ Si tienes alguna pregunta o sugerencia, puedes contactarme a través de:
 - Correo electrónico: [MckRules156@proton.me](mailto:MckRules156@proton.me)
 - GitHub: [@MckRules156](https://github.com/MckRules156)
 
+![Logo](https://github.com/MckRules156/ModoDiablo/blob/main/Media/logo.png)
+![Créditos](https://github.com/MckRules156/ModoDiablo/blob/main/Media/credits.png)
+
