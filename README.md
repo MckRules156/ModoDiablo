@@ -94,4 +94,18 @@ termux-wake-lock && sleep 60 && bash ModoDiablo.sh
 ```
 Si deseas llevar la experiencia al siguiente nivel, intenta instalar el script en el teléfono de otra persona sin que se percate, y programa su ejecución. Te garantizo que, en ese caso, la sorpresa será mucho más impactante.
 
+## Contribuciones
+
+Si te gustaría apoyar mi trabajo o realizar una contribución económica, puedes hacerlo a través de las siguientes opciones:
+
+### Criptomonedas:
+- **Bitcoin (BTC)**: <No disponible>
+- **Ethereum (ETH)**: <No disponible>
+- **Dogecoin (DOGE)**: <No disponible>
+- **Monero (XMR)**: <No disponible>
+
+### BuyMeACoffee:
+Si prefieres hacer una contribución más sencilla, puedes apoyarme a través de **BuyMeACoffee** en este enlace: <No disponible>
+
+¡Gracias por tu apoyo!
 
