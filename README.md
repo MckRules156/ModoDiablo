@@ -64,8 +64,6 @@ bash ModoDiablo.sh
 
 Si encuentras problemas al ejecutar el instalador `Instalador.sh`, es posible que se deba a la falta de algunas dependencias. Si esto ocurre, puedes instalarlas manualmente con los siguientes pasos:
 
-### 1. Instalar dependencias manualmente
-
 Abre **Termux** y ejecuta los siguientes comandos para instalar las dependencias necesarias:
 
 ```bash
