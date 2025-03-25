@@ -1,7 +1,7 @@
 <img src="https://github.com/MckRules156/ModoDiablo/blob/main/Media/logo2.jpg?raw=true" alt="ModoDiablo Logo" width="1000"/>
 
 # ModoDiablo 👹
-**Esto no es solo un script, es un ritual de invocación ...**
+**Esto no es solo un script, es un ritual de invocación ...**  
 
 
 ## Descripción
@@ -12,12 +12,12 @@ Este script transforma tu dispositivo en una **entidad poseída**, desatando efe
 
 Ya sea que desees asustar a tus amigos, sorprender a alguien con un toque macabro o simplemente experimentar con lo paranormal, **ModoDiablo** está aquí para poner a prueba tus nervios. Porque recuerda: el diablo no necesita tu alma… solo tu teléfono.
 
-### ¿Estás listo para desatar el caos?
+### ¿Estás listo para desatar el caos?  
 
 
 ## Compatibilidad
 
-Este script es compatible con **Termux**. Para un funcionamiento completo, es necesario tener instalada la extensión **Termux:API**, que proporciona acceso a diversas funcionalidades del sistema. 
+Este script es compatible con **Termux**. Para un funcionamiento completo, es necesario tener instalada la extensión **Termux:API**, que proporciona acceso a diversas funcionalidades del sistema.  
 
 
 ## Instalación
@@ -39,7 +39,7 @@ chmod +x Instalador.sh
 bash Instalador.sh
 bash ModoDiablo.sh
 ```
-
+  
 
 ## Solución de problemas
 
