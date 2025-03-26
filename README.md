@@ -1,6 +1,8 @@
 <img src="https://github.com/MckRules156/ModoDiablo/blob/main/Media/logo2.jpg?raw=true" alt="ModoDiablo Logo" width="1000"/>
 
-![Profile views](https://komarev.com/ghpvc/?username=MckRules156&color=red&style=flat-square) ![GitHub Followers](https://img.shields.io/github/followers/MckRules156?style=flat-square&color=red) ![GitHub User's stars](https://img.shields.io/github/stars/MckRules156?affiliations=OWNER&style=flat-square&color=red) 
+![Profile views](https://komarev.com/ghpvc/?username=MckRules156&color=red&style=flat-square) ![Profile Status](https://img.shields.io/badge/Profile-Active-green?style=flat-square) ![Made with rage](https://img.shields.io/badge/Made%20with-💀-red?style=flat-square) ![Compatible con Termux](https://img.shields.io/badge/Compatible%20con-Termux-%23121011.svg?style=flat-square&logo=android&logoColor=white)
+
+
 
 # ModoDiablo 👹
 **Este script no solo ejecuta comandos, invoca fuerzas más allá de lo comprensible ...**  
