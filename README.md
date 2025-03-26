@@ -43,18 +43,18 @@ Este script desatará una serie de efectos demoníacos en tu dispositivo, convir
    
 **8. Servidor Demoníaco**: Se creará un servidor demoníaco en segundo plano y se abrirá automáticamente en el navegador, proporcionando una experiencia aún más inquietante.
 
-### Screenshots 📸
+## Screenshots 📸
 
 <div>
-  <img src="Media/Screenshot1.png" width="250"/>
-  <img src="Media/Screenshot2.png" width="250"/>
-  <img src="Media/Screenshot3.png" width="250"/>
+  <img src="Media/Screenshot1.png" width="200"/>
+  <img src="Media/Screenshot2.png" width="200"/>
+  <img src="Media/Screenshot3.png" width="200"/>
 </div>
 
 <div>
-  <img src="Media/Screenshot4.png" width="250"/>
-  <img src="Media/Screenshot5.png" width="250"/>
-  <img src="Media/Screenshot6.png" width="250"/>
+  <img src="Media/Screenshot4.png" width="200"/>
+  <img src="Media/Screenshot5.png" width="200"/>
+  <img src="Media/Screenshot6.png" width="200"/>
 </div>
 
 
