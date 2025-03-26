@@ -44,15 +44,15 @@ Este script desatará una serie de efectos demoníacos en tu dispositivo, convir
 **8. Servidor Demoníaco**: Se creará un servidor demoníaco en segundo plano y se abrirá automáticamente en el navegador, proporcionando una experiencia aún más inquietante.
 
 
-## Instalación ⚙️
+## Instalación del script 💻
 
-### 1. Instalar Termux
+#### 1. Instalar Termux
 Si aún no tienes **Termux** instalado, puedes hacerlo desde [Termux (F-Droid)](https://f-droid.org/packages/com.termux/).
 
-### 2. Instalar la extensión Termux:API
+#### 2. Instalar la extensión Termux:API
 Simplemente dirigete al siguiente enlace para descargar la extensión [Termux:API (F-Droid)](https://f-droid.org/packages/com.termux.api/).
 
-### 3. Instalar ModoDiablo
+#### 3. Instalar ModoDiablo
 Ejecuta los siguientes comandos en la terminal de **Termux**
 
 ```bash
@@ -63,6 +63,19 @@ bash Instalador.sh
 bash ModoDiablo.sh
 ```
 
+## Configuraciones del script ⚙️
+
+#### 1. Configuración de los mensajes macabros que se muestran en la terminal
+Para configurar estos mensajes puedes modifcar la variable "Mensajes" del script "ModoDiablo.sh"
+
+#### 2. Configuración del temporizador del script
+En la función "timer" del script "ModoDiablo.sh" puedes modificar el tiempo de espera del temporizador
+
+#### 3. Configuración del audio del script
+Puedes cambiar el audio del script remplazando el archivo "Media/music.mp3" por el audio que prefieras
+
+#### 4. Configuración de fondos de pantalla
+Reemplaza el archivo "Media/oldwallpaper.jpg" por tu fondo de pantalla actual y "Media/oldwallpaperlock.jpg" por tu fondo de pantalla de bloqueo. El script utilizará estos archivos para restaurar tus fondos originales cuando se detenga.
 
 ## Solución de problemas 🛠️
 
@@ -108,13 +121,13 @@ Este script ha sido creado con fines de entretenimiento y educativos. Si decides
 
 Si te gusta lo que hago y quieres contribuir para seguir mejorando este proyecto, aquí te dejo varias formas en las que puedes apoyarme. Tu aportación hace la diferencia.
 
-### Criptomonedas 🪙 :
+#### Criptomonedas 🪙 :
 - **Bitcoin (BTC)**: <No disponible>
 - **Ethereum (ETH)**: <No disponible>
 - **Dogecoin (DOGE)**: <No disponible>
 - **Monero (XMR)**: <No disponible>
 
-### BuyMeACoffee ☕ :
+#### BuyMeACoffee ☕ :
 Si prefieres hacer una contribución más sencilla, puedes apoyarme a través de **BuyMeACoffee** en este enlace: <No disponible>
 
 Tu apoyo me permite seguir trabajando en proyectos como este. ¡Gracias por estar aquí!
