@@ -1,5 +1,7 @@
 <img src="https://github.com/MckRules156/ModoDiablo/blob/main/Media/logo2.jpg?raw=true" alt="ModoDiablo Logo" width="1000"/>
 
+![Profile views](https://komarev.com/ghpvc/?username=MckRules156&color=red&style=flat-square) ![GitHub Followers](https://img.shields.io/github/followers/MckRules156?style=flat-square&color=red) ![GitHub User's stars](https://img.shields.io/github/stars/MckRules156?affiliations=OWNER&style=flat-square&color=red) 
+
 # ModoDiablo 👹
 **Este script no solo ejecuta comandos, invoca fuerzas más allá de lo comprensible ...**  
 
@@ -121,4 +123,7 @@ Si tienes alguna pregunta o sugerencia, puedes contactarme a través de:
 - GitHub: [@MckRules156](https://github.com/MckRules156)
 
 ![Créditos](https://github.com/MckRules156/ModoDiablo/blob/main/Media/credits.png)
+
+
+
 
