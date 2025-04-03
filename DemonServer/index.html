@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="demonicon.png" type="image/png">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SOY EL DEMONIO 👹</title>
+    <style>
+        body {
+            background: url('fire.gif') no-repeat center center fixed;
+            background-size: cover;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        @keyframes shake {
+            0% { transform: translate(1.5px, 1.5px) rotate(0deg); }
+            20% { transform: translate(-1.5px, -1.5px) rotate(-0.8deg); }
+            40% { transform: translate(1.5px, -1.5px) rotate(0.8deg); }
+            60% { transform: translate(-1.5px, 1.5px) rotate(-0.8deg); }
+            80% { transform: translate(1.5px, 1.5px) rotate(0.8deg); }
+            100% { transform: translate(-1.5px, -1.5px) rotate(0deg); }
+        }
+
+        @keyframes text-shake {
+            0% { transform: translate(1px, 1px); }
+            25% { transform: translate(-1px, -1px); }
+            50% { transform: translate(1px, -1px); }
+            75% { transform: translate(-1px, 1px); }
+            100% { transform: translate(1px, 1px); }
+        }
+
+        .demonio {
+            width: 100%;
+            max-width: 600px;
+            height: auto;
+            margin-top: 30px;
+            animation: shake 0.4s infinite ease-in-out;
+            cursor: pointer;
+        }
+
+        .mensaje {
+            color: white;
+            font-size: 14px;
+            text-shadow:
+                0 0 5px #ff0000,
+                0 0 10px #ff0000,
+                0 0 15px #ff0000,
+                0 0 20px #990000;
+            text-align: center;
+            margin-top: 5px;
+            animation: text-shake 0.3s infinite ease-in-out;
+        }
+
+        .script-credit {
+            color: white;
+            font-size: 12px;
+            text-shadow: 2px 2px 4px black;
+            text-align: center;
+            margin-top: 10px;
+        }
+
+        .leyenda {
+            color: white;
+            font-size: 12px;
+            text-shadow: 2px 2px 4px black;
+            text-align: center;
+            margin-top: 15px;
+            max-width: 80%;
+            line-height: 1.4;
+        }
+    </style>
+</head>
+<body>
+
+    <img src="demonio.png" alt="Demonio" class="demonio" onclick="playSound()">
+
+    <div class="mensaje">
+        ESTE TELÉFONO HA SIDO POSEÍDO POR EL DIABLO 👹‼️
+    </div>
+
+    <div class="script-credit">
+        Script by: <a href="https://github.com/MckRules156" target="_blank" style="color: #ffcc00;">MckRules156</a>
+    </div>
+
+    <div class="leyenda">
+        ¿Estás seguro de que quieres utilizar este teléfono? El precio es mucho más alto de lo que te piensas 💀
+    </div>
+
+    <audio id="sound" src="risa.mp3" preload="auto"></audio>
+
+    <script>
+        function playSound() {
+            var audio = document.getElementById('sound');
+            audio.play();
+        }
+
+        document.addEventListener("visibilitychange", function() {
+            if (document.hidden) {
+                document.title = "NO TE VAYAS ‼️";
+            } else {
+                document.title = "PUEDO VERTE 👁️";
+            }
+        });
+
+        const alertMessages = [
+            "TU SUFRIMIENTO ES MI PLACER 💀‼️",
+            "RECUERDA: NO PUEDES ESCAPARTE DE MI 💀‼️",
+            "ESTOY DETRÁS DE TI, DATE LA VUELTA 💀‼️"
+        ];
+
+        function showAlerts() {
+            let index = 0;
+            setInterval(function() {
+                alert(alertMessages[index]);
+                index++;
+                if (index >= alertMessages.length) {
+                    index = 0;
+                }
+            }, 5000);
+        }
+
+        setTimeout(function() {
+            showAlerts();
+        }, 5000);
+
+        window.onbeforeunload = function() {
+            return "¿Estás seguro de que deseas salir?";
+        };
+    </script>
+
+</body>
+</html>
