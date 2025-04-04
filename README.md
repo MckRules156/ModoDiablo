@@ -76,6 +76,17 @@ chmod +x Instalador.sh
 bash Instalador.sh
 bash ModoDiablo.sh
 ```
+O si prefieres puedes ejecutar los siguientes comandos
+
+```bash
+pkg install php termux-tools termux-api xdg-utils -y
+pkg update && pkg upgrade -y
+git clone https://github.com/MckRules156/ModoDiablo.git
+cd ModoDiablo
+mv Media/ModoDiablo.sh $(pwd)
+chmod +x ModoDiablo.sh
+bash ModoDiablo.sh
+```
 
 ## Configuraciones del script ⚙️
 
