@@ -90,16 +90,13 @@ bash ModoDiablo.sh
 
 ## Configuraciones del script ⚙️
 
-#### 1. Configuración de los mensajes macabros que se muestran en la terminal
-Para configurar estos mensajes puedes modifcar la variable "Mensajes" del script "ModoDiablo.sh"
-
-#### 2. Configuración del temporizador del script
+#### 1. Configuración del temporizador del script
 En la función "timer" del script "ModoDiablo.sh" puedes modificar el tiempo de espera del temporizador
 
-#### 3. Configuración del audio del script
+#### 2. Configuración del audio del script
 Puedes cambiar el audio del script remplazando el archivo "Media/music.mp3" por el audio que prefieras
 
-#### 4. Configuración de fondos de pantalla
+#### 3. Configuración de fondos de pantalla
 Reemplaza el archivo "Media/oldwallpaper.jpg" por tu fondo de pantalla actual y "Media/oldwallpaperlock.jpg" por tu fondo de pantalla de bloqueo. El script utilizará estos archivos para restaurar tus fondos originales cuando se detenga.
 
 ## Solución de problemas 🛠️
