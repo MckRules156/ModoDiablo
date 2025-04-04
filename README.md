@@ -54,7 +54,7 @@ Este script desatará una serie de efectos demoníacos en tu dispositivo, convir
 <div>
   <img src="Media/Screenshot4.png" width="200"/>
   <img src="Media/Screenshot5.png" width="200"/>
-  <img src="Media/Screenshot6.png" width="200"/>
+  <img src="Media/Screenshot.png" width="200"/>
 </div>
 
 
